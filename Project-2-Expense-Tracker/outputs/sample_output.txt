@@ -1,0 +1,28 @@
+========================================
+      EXPENSE TRACKER
+========================================
+
+Enter Expense Amount (or type 'done'): 100
+Added: ₹100.0
+
+Enter Expense Amount (or type 'done'): 50
+Added: ₹50.0
+
+Enter Expense Amount (or type 'done'): 20
+Added: ₹20.0
+
+Enter Expense Amount (or type 'done'): done
+
+========================================
+Expense Summary
+========================================
+
+Expenses Entered:
+1. ₹100.0
+2. ₹50.0
+3. ₹20.0
+
+Total Expenses: 3
+Total Spent: ₹170.00
+
+Thank you for using Expense Tracker!
