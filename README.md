@@ -1,24 +1,16 @@
-# DecodeLabs Generative AI Internship Projects
+# DecodeLabs Internship Projects
 
 ## Overview
 
-This repository contains projects completed as part of the DecodeLabs Generative AI Internship Program 2026. The projects demonstrate practical applications of Prompt Engineering, Retrieval-Augmented Generation (RAG), and Multimodal AI Workflows.
+This repository contains projects and tasks completed as part of the DecodeLabs Internship Program 2026. The work demonstrates practical applications of Python Programming, Prompt Engineering, Retrieval-Augmented Generation (RAG), and Multimodal AI Workflows.
 
-## Project 1: System Prompt Architect
+---
+
+# Task 1: System Prompt Architect
 
 ### Objective
 
 Design a professional AI-powered Luxury Travel Consultant using advanced Prompt Engineering and Persona Engineering techniques.
-
-### Key Features
-
-* Custom System Prompt Design
-* Luxury Travel Consultant Persona
-* Few-Shot Prompting
-* Competitor Restriction Handling
-* Controlled Discount Policy
-* Customer Complaint Management
-* Prompt Testing and Evaluation
 
 ### Technologies Used
 
@@ -28,101 +20,83 @@ Design a professional AI-powered Luxury Travel Consultant using advanced Prompt 
 
 ---
 
-## Project 2: Knowledge Analyst (RAG Concepts)
+# Project 2: Expense Tracker
 
 ### Objective
 
-Develop a Retrieval-Augmented Generation (RAG) workflow capable of analyzing large documents and answering questions using retrieved information.
-
-### Key Features
-
-* Document Processing
-* Intelligent Question Answering
-* Context-Based Responses
-* Risk Extraction
-* Date Identification
-* Stakeholder Analysis
-* Summary Dashboard
+Develop a Python-based Expense Tracker that allows users to record expenses and calculate total spending using accumulator logic.
 
 ### Technologies Used
 
-* Python
-* LangChain
-* ChromaDB / FAISS
-* OpenAI API / Gemini API
+* Python 3
 
 ---
 
-## Project 3: Multimodal Content Engine
+# Task 3: Knowledge Analyst (RAG Concepts)
 
 ### Objective
 
-Create an AI-powered workflow that transforms video and audio content into social media assets.
-
-### Key Features
-
-* Speech-to-Text Transcription
-* Viral Segment Detection
-* Automated Caption Generation
-* Social Media Content Creation
-* AI-Powered B-Roll Suggestions
-* Content Repurposing Workflow
+Develop a Retrieval-Augmented Generation (RAG) workflow capable of analyzing documents and answering questions using contextual information.
 
 ### Technologies Used
 
 * Python
-* Whisper
-* GPT-4o / Gemini
-* Runway
+* Streamlit
+* LangChain
+* FAISS
+* Google Gemini
+
+---
+
+# Task 4: Multimodal Content Engine
+
+### Objective
+
+Create an AI-powered workflow that transforms video transcripts into social media content assets.
+
+### Technologies Used
+
+* Python
+* Streamlit
+* Google Gemini
 
 ---
 
 ## Repository Structure
 
 ```text
-DecodeLabs-GenerativeAI/
+DecodeLabs-Internship/
 
 ├── Task1-SystemPromptArchitect/
-│   ├── README.md
-│   ├── system_prompt.md
-│   ├── few_shot_examples.md
-│   ├── test_cases.md
-│   ├── results.md
-│   └── screenshots/
+│
+├── Project2-ExpenseTracker/
 │
 ├── Task3-RAG-KnowledgeAnalyst/
-│   ├── source_documents/
-│   ├── notebooks/
-│   ├── dashboard/
-│   └── README.md
 │
 ├── Task4-MultimodalContentEngine/
-│   ├── input_media/
-│   ├── transcripts/
-│   ├── captions/
-│   ├── outputs/
-│   └── README.md
 │
 └── README.md
 ```
 
+---
+
 ## Learning Outcomes
 
-Through these projects, I gained hands-on experience in:
-
+* Python Programming
+* Data Processing & Accumulators
 * Prompt Engineering
-* Persona Design
+* Persona Engineering
 * Retrieval-Augmented Generation (RAG)
 * AI Document Analysis
 * Multimodal AI Systems
-* Content Automation
-* Generative AI Workflows
+* Streamlit Development
+* Google Gemini Integration
 * GitHub Project Management
+
+---
 
 ## Author
 
 Mohit Prajapati
 
-Generative AI Intern
-
-DecodeLabs Internship Program 2026
+Intern – DecodeLabs Internship Program 2026
